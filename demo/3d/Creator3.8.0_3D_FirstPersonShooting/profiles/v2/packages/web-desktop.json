@@ -1,0 +1,18 @@
+{
+  "builder": {
+    "taskOptionsMap": {
+      "1613978503440": {
+        "resolution": {
+          "designWidth": 1280,
+          "designHeight": 960
+        },
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.4"
+  },
+  "__version__": "1.0.1"
+}
